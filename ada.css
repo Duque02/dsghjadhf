@@ -1,0 +1,41 @@
+
+    
+bod{
+
+    font-size: 20px;
+}
+
+body{
+  background-color: #000;
+  background-repeat: no-repeat;
+    background-size: cover;
+}  
+
+.subtitulo {
+padding:5em;
+color: #000;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.subtitulo:hover{
+color: rgb(71, 65, 65);
+text-shadow: 6px 6px rgb(27, 196, 154);
+}
+
+.whiteDivider {
+    background-color: #B2EBF2;
+    padding: 2em;
+    text-align: left;
+    border: #000 2px solid;
+    margin: 2em;
+}
+
+.img-container {
+  text-align: center;
+
+
+}
+
+.imgContainer {
+    display: flexbox;
+    justify-content: center;
+}
